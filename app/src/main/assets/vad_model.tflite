@@ -1,0 +1,4 @@
+// This is a placeholder for a real TensorFlow Lite model file
+// In a real app, this would be a binary file with a trained voice activity detection model
+// For demonstration purposes, the app will fallback to the energy-based VAD algorithm
+// when it fails to load this model 
