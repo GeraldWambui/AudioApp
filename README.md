@@ -81,7 +81,7 @@ To achieve the lowest possible latency, the app utilizes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AudioApp.git
+   git clone https://github.com/GeraldWambui/AudioApp.git
    ```
 
 2. Open the project in Android Studio
